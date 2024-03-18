@@ -1,0 +1,36 @@
+.btn-group {
+    padding: 1.2rem;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    margin-top: 9cqmax;
+}
+button {
+    position: absolute;
+    width: 200px;
+    height: inherit;
+    font-size: 2.2em;
+    color: #f11010;
+    font-weight: 700;
+    border-radius: 50px;
+    border: 2px solid #4cde12;
+    outline: #f309a5;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 
+    rgba(235, 178, 5, 0);
+}
+
+.background-image {
+    background-image: url('https://img.freepik.com/premium-photo/spring-summer-rose-flowers-with-water-drops_856660-23889.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100dvh;
+}
+
+.question {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 2.2em;
+    color: #10e2f1;
+}
